@@ -1,0 +1,14 @@
+Version		Description of Changes
+-----------	---------------------------------------------------------------------------------------
+
+1.0.0		Created program to dynamically generate .ttx file for my web reports using Crystal Reports
+		It will also show the beginning SQL SELECT statement that will be needed. This was a really
+		quick developed utility and is far from being perfect!
+
+1.0.1		changed to show SQL window and to keep from having to figure that out.
+
+1.0.2		added the up/down buttons to easier customize the sql statement.
+		fixed bug in main form title.. fromo TTF to TTX
+
+
+
